@@ -1,0 +1,38 @@
+
+====================================
+     Release Notes - VidCutter v1.1
+
+        Version 1.1 - Released June 24, 2023
+====================================
+
+
+Key Changes:
+------------
+
+
+Features:
+---------
+- 
+    • 
+
+
+
+Enhancements:
+-------------
+
+
+
+Bug Fixes:
+----------
+
+
+
+Known Issues:
+-------------
+
+
+For instructions on how to use the VidCutter, please refer to the "How to use" section from the menu bar or for detailed instructions refer to the "Help File" section from the menu bar.
+
+
+Thank you for using VidCutter!
+
